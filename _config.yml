@@ -1,0 +1,7 @@
+permalink: pretty
+plugins:
+  - jekyll-redirect-from
+
+# Force HTTPS
+url: https://weddie.site
+enforce_ssl: weddie.site
