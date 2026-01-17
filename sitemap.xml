@@ -4,7 +4,7 @@
   <!-- Home page -->
   <url>
     <loc>https://weddie.site/</loc>
-    <lastmod>2026-01-14</lastmod>
+    <lastmod>2026-01-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
     <xhtml:link rel="alternate" hreflang="pl" href="https://weddie.site/?lang=pl" />
@@ -15,7 +15,7 @@
   <!-- Privacy Policy page -->
   <url>
     <loc>https://weddie.site/privacy-policy</loc>
-    <lastmod>2026-01-14</lastmod>
+    <lastmod>2026-01-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.1</priority>
     <xhtml:link rel="alternate" hreflang="pl" href="https://weddie.site/privacy-policy?lang=pl" />
@@ -26,7 +26,7 @@
   <!-- Agreement page -->
   <url>
     <loc>https://weddie.site/agreement</loc>
-    <lastmod>2026-01-14</lastmod>
+    <lastmod>2026-01-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.1</priority>
     <xhtml:link rel="alternate" hreflang="pl" href="https://weddie.site/agreement?lang=pl" />
@@ -37,7 +37,7 @@
   <!-- Questionnaire page -->
   <url>
     <loc>https://weddie.site/questionnaire</loc>
-    <lastmod>2026-01-14</lastmod>
+    <lastmod>2026-01-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <xhtml:link rel="alternate" hreflang="pl" href="https://weddie.site/questionnaire?lang=pl" />
